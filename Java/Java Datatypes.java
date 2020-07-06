@@ -1,4 +1,4 @@
-Java has 8 primitive data types; char, boolean, byte, short, int, long, float, and double. For this exercise, we'll work with the primitives used to hold integer values (byte, short, int, and long):
+/* Java has 8 primitive data types; char, boolean, byte, short, int, long, float, and double. For this exercise, we'll work with the primitives used to hold integer values (byte, short, int, and long):
 
 A byte is an 8-bit signed integer.
 A short is a 16-bit signed integer.
@@ -51,7 +51,7 @@ Sample Output
 * long
 Explanation
 
- -150 can be stored in a short, an int, or a long.
+ -150 can be stored in a short, an int, or a long.    */
 
  213333333333333333333333333333333 is very large and is outside of the allowable range of values for the primitive data types discussed in this problem.
  /****************************************************************************************************************************************************************/
